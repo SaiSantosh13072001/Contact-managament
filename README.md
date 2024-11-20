@@ -6,5 +6,6 @@ Enter the data & click on add contact button to add it.
 
 Delete data
 If you want to delete data you can do that as well in real-time.
-![Screenshot 2024-11-20 154840](https://github.com/user-attachments/assets/687594b1-77fd-41a4-82d9-273cb670a86f)
 ![Screenshot 2024-11-20 154817](https://github.com/user-attachments/assets/d510fb5e-2067-4982-9f1f-6953058cd81b)
+![Screenshot 2024-11-20 154840](https://github.com/user-attachments/assets/687594b1-77fd-41a4-82d9-273cb670a86f)
+
