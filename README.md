@@ -1,11 +1,11 @@
 # Contact-managament
 
-<b><u>Insert data</u></b>
+<b><u>Insert data</b>
 <br><br>
 Enter the data & click on add contact button to add it.
 ![Screenshot 2024-11-20 154517](https://github.com/user-attachments/assets/78e49dcf-2373-4aec-929d-78aab9cb3e48)
 
-<b><u>Delete data</u></b>
+<b><u>Delete data</b>
 <br><br>
 If you want to delete data you can do that as well in real-time.
 ![Screenshot 2024-11-20 154817](https://github.com/user-attachments/assets/d510fb5e-2067-4982-9f1f-6953058cd81b)
